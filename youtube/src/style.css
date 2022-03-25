@@ -4,12 +4,20 @@
 }
 
 .YoutubeHeader{
-    padding-left: 30px;
+    padding-left: 50px;
     color: red;
     font-size: 100px;
     width: 400px;
     transform: scale(1.8);
     padding-top: 5px;
+}
+
+h1{
+  text-align: center;
+}
+
+.Color{
+  background-color: wheat;
 }
 
 .Search{
@@ -134,4 +142,13 @@
     width: 100px;
     height: 100px;
     font-size: 32px;
+  }
+
+  .Video{
+    justify-content: center;
+    align-items: center;
+  }
+
+  .iframe{
+    justify-content: center;
   }
