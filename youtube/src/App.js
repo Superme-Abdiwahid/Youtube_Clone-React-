@@ -15,6 +15,7 @@ import '@trendmicro/react-sidenav/dist/react-sidenav.css';
 import SideBarNav  from './SideBarNav';
 import Video from './Video'
 import { render } from 'react-dom';
+
 export default class App extends React.Component{
   render(){
     return(
