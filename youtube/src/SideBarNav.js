@@ -22,7 +22,7 @@ export default  class SideBarNav extends React.Component{
             <div>
             <SideNav className='Color'
             onSelect={(selected) => {
-                // Add your code here
+                
             }}
         >
             <SideNav.Toggle />
